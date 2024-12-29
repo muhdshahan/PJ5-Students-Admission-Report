@@ -7,7 +7,7 @@ The report provides a comprehensive analysis of **students' admission performanc
 - **Power BI** for dashboard creation.
 
 ## Dataset Used
-<a href="https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/student_admission_record_dirty.csv">Students Dataset</a>
+<a href="https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/student_admission_record_dirty.csv">Students Admission Dataset</a>
 
 ## Key Metrics
 - **Max Test Scores by City**: Multan and Quetta excel.
