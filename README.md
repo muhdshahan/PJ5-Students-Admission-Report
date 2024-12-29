@@ -28,7 +28,7 @@ The report provides a comprehensive analysis of **students' admission performanc
 - **City Comparison**: Balanced student distribution across cities.
 
 ## Image Preview
-![Dashboard Preview]([https://github.com/jubairt/Chocolate-Sales-Report/blob/main/Chocolate%20Project%20Screenshot.png](https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/Students%20Admission%20Report.png))
+![Students Admission Report]([https://github.com/jubairt/Chocolate-Sales-Report/blob/main/Chocolate%20Project%20Screenshot.png](https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/Students%20Admission%20Report.png))
 
 ## Conclusion
 The dashboard highlights key performance and admission trends for data-driven decision-making.
