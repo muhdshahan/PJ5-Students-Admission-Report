@@ -6,6 +6,9 @@ The report provides a comprehensive analysis of **students' admission performanc
 ## Tools Used
 - **Power BI** for dashboard creation.
 
+## Dataset Used
+<a href="https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/student_admission_record_dirty.csv">Students Dataset</a>
+
 ## Key Metrics
 - **Max Test Scores by City**: Multan and Quetta excel.
 - **Admission Status**: 58.49% accepted; 41.51% rejected.
